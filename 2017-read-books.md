@@ -15,8 +15,11 @@
 https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/
 
 ### 5.《Docker 从入门到实践》
+对Docker 相关的概念和命令又熟悉了一遍，弥补之前的遗漏
 
 ### 6.《Docker源码分析》
+对Docker 底层有了深入的了解，特别是Docker Daemon 中 Engine, server, job 等概念的抽象十分的简洁和清晰
+对底层技术的适配利用不同的driver 是架构中很好的设计。
 
 
 # 非技术类：
